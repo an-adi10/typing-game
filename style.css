@@ -9,6 +9,10 @@ body{
     min-height: 100vh;
     margin: 0;
     background: linear-gradient(to right, #12FFF7, #B3FFAB);
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 
 }
 
